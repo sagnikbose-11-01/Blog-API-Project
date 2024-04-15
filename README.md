@@ -1,6 +1,6 @@
 # Blog-API-Project
 
-This project implements a straightforward API designed for handling blog post management. It offers functionalities to create, read, update, and delete blog posts. The backend is developed using Node.js and Express.js, while Axios facilitates communication between the frontend and the API. Additionally, EJS is utilized for templating, and CSS is employed for styling purposes.
+This project implements a straightforward RESTful API designed for handling blog post management. It offers functionalities to create, read, update, and delete blog posts. The backend is developed using Node.js and Express.js, while Axios facilitates communication between the frontend and the API. Additionally, EJS is utilized for templating, and CSS is employed for styling purposes.
 
 ## Features
 
